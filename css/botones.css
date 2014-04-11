@@ -1,0 +1,67 @@
+/*********************** B O T O N E S *************************/
+.btn{
+
+    background: none;
+    color: rgba(255,255,255,1);
+    font-size: 110%;
+    font-weight: lighter; 
+    padding:1em;
+    position: relative;
+    margin: 2.5em auto;
+    border: 2px solid rgba(255,255,255,1);
+    text-align: center;
+    text-decoration:none;
+
+}
+
+.btn a{
+    
+    color: rgba(255,255,255,1);
+    text-align: center;
+    text-decoration:none;
+}
+
+.btn--rounded{
+    border-radius: 50%;
+    height: 80px;
+    width:80px;
+}
+
+
+.btn-info{
+    color:rgba(255,255,255,1);
+    text-align: center;
+}
+
+.get-albums{
+
+    color: rgba(255,255,255,1);
+    text-align: center;
+}
+
+.btn--action{
+    
+    display: block;
+    background: rgba(0,100,250,1);
+    color: rgba(255,255,255,1); 
+    text-align: center;
+}
+
+.btn--action a{
+    color: rgba(255,255,255,1);
+    font-size: 120%;
+    font-weight: lighter;
+    text-decoration: none;
+}
+
+.btn--gray{
+    background: rgba(0,0,0,.75);
+    color: rgba(255,255,255,1);
+    text-align: center;
+}
+
+
+
+
+
+/*********************** F I N   B O T O N E S *************************/

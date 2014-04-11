@@ -1,0 +1,150 @@
+/*******************  ARTIST ********************/
+
+
+
+*,:before,:after{
+    border:none;
+    margin: 0;
+    padding: 0;
+     box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -0-box-sizing: border-box;
+    outline: 0;
+    outline-style:none;
+    outline-width:0;
+}
+
+#artista{
+  background: rgba(0,255,255,1);
+  border:2px solid rgba(255,255,255,1);
+  border-radius: 8px;
+  padding: 1em;
+  width: 80%;
+}
+
+#artista::-webkit-input-placeholder {
+   color: rgba(0,0,0,.5);
+   font-size: 1.15em;
+}
+
+#artista:-moz-placeholder { /* Firefox 18- */
+   color: rgba(0,0,0,.5);
+   font-size: 1.15em;  
+}
+
+#artista::-moz-placeholder {  /* Firefox 19+ */
+   color: rgba(0,0,0,.5);
+   font-size: 1.15em;  
+}
+
+#artista:-ms-input-placeholder {  
+   color: rgba(0,0,0,.5);
+   font-size: 1.15em;  
+}
+
+#boton{
+
+    color: green;
+    font-weight: bold;
+}
+
+#boton:hover{
+
+    cursor: pointer;
+}
+
+
+#content h2{
+    color: rgba(255,255,255,.9);
+    margin:1em 0;
+    padding: .5em;
+}
+
+#content{
+
+    padding:0;
+}
+
+#content figure img
+{
+    display: block;
+    width:100%;
+}
+
+#form{
+  background: rgba(0,0,0,1);
+  padding:2em;
+}
+
+
+.album.album-onload {
+  opacity: 0.0;
+  -webkit-transform:translate(0px, 50px);
+  transform:translate(0px, 50px);
+}
+
+.album {
+  opacity: 0.9;
+  -webkit-transition: opacity 1s ease-in-out, -webkit-transform 0.5s ease;
+  transition: opacity 1s ease-in-out, transform 0.5s ease;
+  cursor: pointer;
+  display:block;
+}
+
+.album:hover {
+  opacity: 1.0;
+  -webkit-transform: scale(1.2,1.2);
+  transform: scale(1.1,1.1);
+}
+
+.bio {
+    border:2px solid rgba(255,255,255,.25);
+    border-radius: 10px;
+    color:rgba(255,255,255,.9);
+    display: block;
+    font-family: 'Droid Sans', sans-serif;
+    font-variant: italic;
+    font-size: 1em;
+    font-weight: lighter;
+    line-height: 175%;
+    margin-top: 2em;
+    margin-left:5%;
+    padding:1.25em;
+    width:90%;
+}
+.bio a{
+    color:lightblue;
+    display: inline-block;
+
+}
+
+.loading {
+    background: #eee;
+    margin: 2em 0;
+    padding: 1em;
+    border-radius: 5px;
+    color: #555;
+    font-style: italic;
+    text-align: center;
+}
+
+.error {
+    background: orange;
+    margin: 2em 0;
+    padding: 1em;
+    border-radius: 5px;
+    color: white;
+    font-style: bold;
+    text-align: center;
+}
+
+
+
+
+
+
+
+/******************* Fin artist ****************/
+        
+

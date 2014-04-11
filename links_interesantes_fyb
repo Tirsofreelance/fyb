@@ -1,0 +1,73 @@
+										
+						------------------
+										
+						FYB - Links útiles
+										
+						------------------
+
+
+APIS:
+-----
+
+
+Songkick
+========
+
+Esta api es la que podríamos usar para el tema de los tickets: precios y su compra online
+-----------------------------------------------------------------------------------------
+
+The Songkick API gives you easy access to the biggest live music database in the world: over 3 million upcoming and past concerts and over 100,000 setlists… and growing every day! Easily add concerts to your website or application.
+
+http://www.songkick.com/developer
+
+
+Ticketmáster
+============
+
+Es una app para adquisición de entradas, habrá que ver si tiene disponible api para conectar con esta app y ofrecer el servicio de adquisición de entradas.
+
+https://play.google.com/store/apps/details?id=com.ticketmaster.mobile.android.uk
+
+Ticketmate
+============
+
+App muy similar a Ticketmáster
+
+https://play.google.com/store/apps/details?id=com.apst.ticketsmate
+
+last.fm
+=======
+
+Esta api la usaríamos ( es la que se está usando ahora ) para tener una base de datos de las bandas
+---------------------------------------------------------------------------------------------------
+
+The Last.fm API allows anyone to build their own programs using Last.fm data, whether they're on the web, the desktop or mobile devices. Find out more about how you can start exploring the social music playground or just browse the list of methods below.
+
+
+http://www.lastfm.es/api
+
+
+Instagram
+=========
+
+Esta api la usaríamos para el tema de catpura de imágenes para compartirlas con nuestros contactos.
+---------------------------------------------------------------------------------------------------
+
+The first version of the Instagram API is an exciting step forward towards making it easier for users to have open access to their data. We created it so that you can surface the amazing content Instagram users share every second, in fun and innovative ways.
+
+Build something great.
+
+http://instagram.com/developer/
+
+ OAuth 2.0 protocol
+
+http://tools.ietf.org/html/draft-ietf-oauth-v2-12
+
+
+
+
+A todo esto habría que añadir Google maps.
+------------------------------------------
+
+
+

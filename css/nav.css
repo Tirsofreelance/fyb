@@ -1,0 +1,32 @@
+/********************* N A V ******************************/
+
+nav{
+    
+    display: block;
+    width:100%;
+}
+.nav {
+    background: rgba(0,0,0,.85);
+    display: table;
+    text-align: center;
+    width:100%;
+}
+.nav li{
+    color:rgba(255,255,255,.75);
+    display: table-cell;
+    font-size: 95%;
+    float:left;
+    line-height: auto;
+    padding:1.5em 1em;
+    vertical-align: middle;
+    width:33.33%;
+}
+
+.nav li:hover{
+
+    cursor: pointer;
+
+}
+
+
+

@@ -1,0 +1,55 @@
+/*********************** C O L O R S ********************/
+
+
+/*** BACKGROUNDS **/
+
+.orange{
+    background-color: rgba(255,100,0,.8);
+}
+.green{
+    background-color: green;
+}
+
+.blue{
+    background-color: blue;
+}
+
+.cyan{
+	background: cyan;
+}
+
+.magenta{
+    background-color: rgba(255,0,255,1);
+}
+
+.black{
+    background-color: black;
+}
+
+
+/** TEXT **/
+
+
+
+.color-orange{
+    color: orange;
+}
+.color-green{
+    color: green;
+}
+
+.color-blue{
+    color: blue;
+}
+
+.color-cyan{
+	color: cyan;
+}
+
+.color-magenta{
+    color: rgba(255,0,255,1);
+}
+
+.color-black{
+    color: black;
+}
