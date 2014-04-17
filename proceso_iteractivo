@@ -1,0 +1,50 @@
+Proceso Iterativo y Lineal
+===========================
+
+Procesos lineal (primeras etapas) e iterativo (etapas avanzadas)
+
+● Proceso lineal: investigación de usuario, benchmarking. Este proceso es recomendado para los inicios de un proyecto.
+● Proceso Iterativo: implica los procesos de wireframe, front. Este proceso es más ágil.
+
+El resultado de estos procesos es siempre positivo si se sigue la metodología adecuada.
+
+Proceso lineal
+● Necesidades de los usuarios: Recolectar e investigar (entrevistas, encuestas), necesitamos recoger información de las personas que usarán el sistema, así como los involucrados en el equipo de trabajo, sea del área que sea.
+
+●Objetivos del sitio: nos delimitan lo que vamos a hacer con el diseño y desarrollo. Ayudan a delimitar los tiempos de trabajo. Nos limita hasta qué punto debo hacerle caso al cliente o al usuario. Los objetivos nos estructuran y crea un marco de referencia.
+
+● Requerimientos de contenidos: esquematizar y reunir contenidos. Se estructura en una actividad que se denomina índice de contenidos. Es un repositorio donde tomamos todos los comentarios de los usuarios finales e internos más los objetivos del sitio.
+
+● Arquitectura de información:
+●● Cardsorting: tomar lo del índice del contenido y lo escribimos en post-it para organizar la información de acuerdo a los objetivos del sitio y a los distintos tipos de usuarios. El cardsorting es el insumo básico del mapa de contenido.
+
+● Diseño de interacción:
+●●Mapa de contenidos: se hace del resultado del cardsorting.
+
+●Diseño de información:
+●●Wireframe
+
+
+Proceso iterativo
+Es más útil para estar en proceso de mejora constante. Se pueden hacer acciones de investigación en todo el proceso.
+
+● Pensar: en esta etapa es donde surgen las ideas. 
+● Hacer: etapa de acción y creación, wireframes, diseño, front.
+● Probar: orientado a mostrar lo que estoy haciendo, a/b testing, usabilidad, etc.
+
+PENSAR
+● El valor del codiseño con los usuarios en etapas tempranas del proyecto radica en que ellos son los que introducen innovaciones, detectan fallos...en fin, usan los sistemas.
+
+● Pensamos y asumimos características y comportamiento de las personas para las cuales diseñamos.
+● Que todas las personas piensan siempre racionalmente y de manera lineal.
+● EL 99% de los procesos mentales son inconciente, recuerdos, pensamientos, emociones y otros procesos cognitivos.
+● Que a las personas les resulta fácil explicar sus conductas.
+● Que podemos estudiar la mente, el cuerpo de los consumidores, la cultura y la sociedad que los rodea de manera independiente.
+
+La investigación debe estar orientada al contexto en el cual nos estamos moviendo. Somos personas y no robots, es por esto que debemos evaluar aspectos cuantitativos y cualitativos.
+
+Cualitativo
+Involucramos lo cualitativo porque necesitamos saber que nuestros productos o servicios encajen en el contexto más amplio de las personas.
+
+● Qué objetivos motivan a la gente a usar los productos y cuáles son las tareas básicas que ayudan al cumplimiento de estos objetivos.
+● Qué problemas tienen las personas con la forma en que actualmente usan los productos.
